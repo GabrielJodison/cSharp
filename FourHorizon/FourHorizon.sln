@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourHorizon", "FourHorizon\FourHorizon.csproj", "{89349888-DAFC-40EC-8C72-F0C12DB6D787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89349888-DAFC-40EC-8C72-F0C12DB6D787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89349888-DAFC-40EC-8C72-F0C12DB6D787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89349888-DAFC-40EC-8C72-F0C12DB6D787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89349888-DAFC-40EC-8C72-F0C12DB6D787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DFCF36-C39F-4E54-9062-8CCB7ED6AC87}
+	EndGlobalSection
+EndGlobal
